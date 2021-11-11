@@ -23,6 +23,8 @@ After you have figured out which project you want to deploy, sign up for an acco
 
 Submit the link to your hosted project in canvas. Good luck!
 
+Deployed website: https://web-sprint-challenge-intro-to-react-kappa-dusky.vercel.app/
+
 ### Task 3: Stretch Problems
 
 Do not attempt stretch problems until MVP has been reached and a final commit has been made.
